@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="chang_an_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="joker.com.Gson.County"/>
+        <mapping class="joker.com.Gson.City"/>
+        <mapping class="joker.com.Gson.Province"/>
+    </list>
+</litepal>
